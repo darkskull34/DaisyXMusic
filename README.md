@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Darskull](https://t.me/daisyxbot)
+### Available on telegram as [@Darkskull](https://t.me/daisyxbot)
 
 <p align="center">
   <img src="https://telegra.ph/file/fe96c41103b970c58b61b.jpg">
