@@ -1,9 +1,9 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/fe96c41103b970c58b61b.jpg",
+  "name": "AlexiaMusic",
+  "logo": "https://telegra.ph/file/b4d2ec63ff80f5554a909.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "repository": "https://github.com/darkskull34/DaisyXMusic",
   "stack": "container",
   "buildpacks": [
    {
@@ -34,12 +34,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "GANGOFMAFIA_TEAM"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "DaisyXMusic v5"
+      "value": "AlexiaMusci"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -53,12 +53,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/fe96c41103b970c58b61b.jpg"
+      "value": "https://telegra.ph/file/b4d2ec63ff80f5554a909.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "Teletech_supportgroup"
+      "value": "GANGOFMAFIA_TEAM"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
